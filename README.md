@@ -1,5 +1,11 @@
 # PresensiRestFullAPI
 
+#Berjalan Pada Port 5060
+#Database MySQL
+#Database Port 8889
+#Database Username : root
+#Database Password : root
+
 Web Service
 
 Registrasi siswa baru 
